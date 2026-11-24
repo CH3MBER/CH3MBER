@@ -7,7 +7,7 @@
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-EE9B11?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-c91306?style=for-the-badge)
 ![Assembly](https://img.shields.io/badge/Assembly-000?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
 ![]()
